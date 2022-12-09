@@ -22,7 +22,7 @@
     "body-parser": "^1.18.3",
     "bootstrap": "^4.3.1",
     "dotenv": "^7.0.0",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "express-handlebars": "^4.0.4",
     "fs": "0.0.1-security",
     "get-youtube-title": "^1.0.0",
